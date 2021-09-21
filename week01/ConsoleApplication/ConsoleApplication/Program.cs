@@ -11,6 +11,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+
             ///Name
             string name = "Cierra";
             string location = "Idaho";
